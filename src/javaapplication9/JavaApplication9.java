@@ -13,5 +13,4 @@ public class JavaApplication9 {
                 + Pruebas.hip(3, 4) + "cm");
     }
 
-
 }

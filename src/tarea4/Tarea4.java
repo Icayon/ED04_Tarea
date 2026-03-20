@@ -4,8 +4,19 @@
  */
 package tarea4;
 
+/**
+ * Clase principal que ejecuta las utilidades.
+ * @author Ivan Cayon
+ * @version 1.0
+ * @since 2026
+ */
 public class Tarea4 {
 
+    /**
+     * Punto de entrada.
+     * Imprime por pantalla una conversion de velocidad y calculos de hipotenusa
+     *  @param args
+     */
     public static void main(String[] args) {
         System.out.println("60mph son " + Utilidades.kmhAms(Utilidades.mphAKmh(60)) + " metros por segundo");
         System.out.println("Si el cateto A mide 3cm y el cateto B mide 4cm, entonces la hipotenusa mide "

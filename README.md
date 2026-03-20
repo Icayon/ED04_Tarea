@@ -25,7 +25,7 @@ Siguiendo el principio de mejora continua, se han aplicado los siguientes cambio
 * **Organización:** Traslado de clases al paquete `tarea4`.
 * **Renombrado de Métodos:** * `hip` ➔ `hipotenusa`
     * `cat` ➔ `catetoA`
-* **Claridad de Parámetros:** Sustitución de variables genéricas (`c1`, `c2`, `h`, `c`) por nombres descriptivos (`cateto1`, `cateto2`, `hipotenusa`, `cateto`).
+* **Claridad de Parámetros:** Sustitución de variables genéricas (`c1`, `catetoB (hip)`, `catetoB (cat)`) por nombres descriptivos (`cateto1`, `cateto2`,`cateto`).
 * **Identidad de Clases:** * `Pruebas` ➔ `Utilidades`
     * `JavaApplication9` ➔ `Tarea4`
 * **Limpieza de Código:** Borrado seguro del método obsoleto `diasEnMesArray`.

@@ -1,3 +1,9 @@
+# Tarea ED04 - Entornos de Desarrollo
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
 # 🚀 Tarea ED04 - Entornos de Desarrollo
 
 ¡Bienvenido a mi repositorio de la Unidad de Trabajo 04! Este proyecto se centra en la aplicación de buenas prácticas de desarrollo, centrándose en el control de versiones, la optimización de código y la documentación profesional.
